@@ -1,0 +1,14 @@
+{
+  "tag": "Count",
+  "options": 
+  [
+    "none",
+    "a half",
+    "one",
+    "a few",
+    "a fair ammount of",
+    "plenty of",
+    "one too many",
+    "enormous ammount of"
+  ]
+}

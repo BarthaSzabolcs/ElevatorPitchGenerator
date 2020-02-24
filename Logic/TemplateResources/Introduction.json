@@ -1,0 +1,7 @@
+{
+  "tag": "Introduction",
+  "options": [
+    "Imagine a game, set in a [$world_setting:$ world.|$world_description:$]",
+    "A game where a $antagonist:$, with $antagonist_group:$ rule the world."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "tag": "_Init",
+  "options": [
+    "{protagonist:@GoodTrait@ @Character@}",
+    "{antagonist:@BadTrait@ @Character@}",
+    "{antagonist_group:[@BadTrait@|@GoodTrait@] @Group@}",
+    "{world_setting:[fantasy|sci-fi|medievil]}",
+    "{world_description:@World@}"
+  ]
+}

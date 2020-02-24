@@ -1,0 +1,7 @@
+{
+  "tag": "Goal",
+  "options": [
+    "The $protagonist:$ have to [kill|stop|defend] the $antagonist:$.",
+    "It's your job to [befriend|convert to a new religion|put in jail] the $antagonist:$ [with the help of @Group@|]."
+  ]
+}
